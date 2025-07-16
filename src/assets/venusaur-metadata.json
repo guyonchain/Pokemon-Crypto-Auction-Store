@@ -1,0 +1,12 @@
+{
+    "description": "Venusaur is a Grass/Poison type Pokémon, the final evolution of Bulbasaur and Ivysaur. It's known for its large flower on its back that blooms from the bulb on its pre-evolutions, Bulbasaur and Ivysaur.",
+    "external_url": "https://openseacreatures.io/3",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeig5wketkdvom7e4qw44lztyqksqaxd4hygsjof5sgcboiboystnty",
+    "name": "Venusaur",
+    "attributes": [
+        {
+            "trait_type": "HP",
+            "value": "100"
+        }
+    ]
+}
